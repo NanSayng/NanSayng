@@ -1,16 +1,21 @@
-## Hi there 👋
+### About Me 👩:
+- 👩‍💻 A college student majoring in CS @ Berkeley City College
+- 📚 Currently exploring **web development**, **algorithms**, and **data structures**
+- 🎯 Goal: To be a successful software engineer
 
-<!--
-**NanSayng/NanSayng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Skills:
+- Programming Languages: **Javascript**, **HTML/CSS**, **C++** (Still in learning process)
+- Interests: Web Development, Frontend Design, and Software Engineering.
 
-Here are some ideas to get you started:
+## 🌱 What I’m Working On:
+- Currently taking CIS 25 class @ BCC
+- Improving myself to be a better programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals for 2025:
+- 🌐 To expand my knowledges in CS field and improve myself.
+- 👩‍🎓 Land an internship in software development.
+- 🏗️ Transfer to UC.
+
+## 📫 Connect With Me:
+- **LinkedIn:** www.linkedin.com/in/nan-sayng-a1b3ab336
+- **Email:** ppont4400@gmail.com
