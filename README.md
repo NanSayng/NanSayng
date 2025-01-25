@@ -1,7 +1,6 @@
 ### About Me 👩:
 - 👩‍💻 A college student majoring in CS @ Berkeley City College
-- 📚 Currently exploring **web development**, **algorithms**, and **data structures**
-- 🎯 Goal: To be a successful software engineer
+- 📚 Aspiring software engineer 
 
 ## 💻 Skills:
 - Programming Languages: **Javascript**, **HTML/CSS**, **C++** (Still in learning process)
