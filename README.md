@@ -7,7 +7,6 @@
 - Interests: Web Development, Frontend Design, and Software Engineering
 
 ## 🌱 What I’m Working On:
-- Currently taking CIS 25 class @ BCC
 - Improving myself to be a better programmer
 
 ## 🚀 Goals for 2025:
